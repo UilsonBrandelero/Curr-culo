@@ -10,7 +10,7 @@
 
 # Contact 📱<br>  
 <div> 
-[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>] (<malito:uilsonandrebrandelero@gmail.com>)
-[<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>] (https://www.linkedin.com/in/uilson-brandelero-354b05209)
-[<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>] (https://wa.me/5549998324361?text=Ol%C3%A1!%20Encontrei%20seu%20contato%20no%20GitHub.%20)
+[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](<malito:uilsonandrebrandelero@gmail.com>).
+[<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/uilson-brandelero-354b05209).
+[<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/5549998324361?text=Ol%C3%A1!%20Encontrei%20seu%20contato%20no%20GitHub.%20).
 </div>
